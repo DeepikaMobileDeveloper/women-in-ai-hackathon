@@ -28,8 +28,10 @@ A Milvus collection was created for the LEGO data and loaded into to a Zilliz cl
 Retrieve the part description for the LEGO set number and create an embedding query to do similarity search on Milvus DB
 ![image](https://github.com/user-attachments/assets/316d0a1e-442d-475d-a0bb-f6356d870491)
 
-# User the vector search results as input to an LLM to generate creative LEGO ideas to reuse the pieces
+# Use the vector search results as input to an LLM to generate/build creative LEGO ideas to reuse the pieces
 ![image](https://github.com/user-attachments/assets/3d3c8869-4c79-47e5-ab38-39536b87f5a0)
+
+# Use the output from the build ideas step to generate images for the proposed builds using an image generation model 
 
 
 
