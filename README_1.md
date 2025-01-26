@@ -17,3 +17,8 @@ A Milvus collection was created for the LEGO data and loaded into to a Zilliz cl
 
 ![alt text](image-1.png)
 
+# Vector Similarity Search on Milvus 
+Retrieve the part description for the LEGO set number and create an embedding query to do similarity search on Milvus DB
+![image](https://github.com/user-attachments/assets/316d0a1e-442d-475d-a0bb-f6356d870491)
+
+
