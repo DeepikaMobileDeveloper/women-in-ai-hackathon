@@ -1,3 +1,10 @@
+# Brickspiration
+## Endless LEGO Creations
+### Challenge:
+Repurpose LEGO sets for different builds
+### Goal:
+Develop an AI system to suggest creative and compatible alternative builds from existing LEGO sets.
+
 # Dataset
 Rebrickables
 
