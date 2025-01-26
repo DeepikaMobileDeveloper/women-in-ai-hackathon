@@ -1,5 +1,5 @@
 # Brickspiration
-## Endless LEGO Creations
+**Endless LEGO Creations**
 ### Challenge:
 Repurpose LEGO sets for different builds
 ### Goal:
