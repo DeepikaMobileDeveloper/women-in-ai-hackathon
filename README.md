@@ -2,7 +2,7 @@
 
 [Registration Page](https://lu.ma/women-in-tech), [Discord](https://discord.gg/VWX29DYN3a),
 [Looping Deck](https://docs.google.com/presentation/d/1AtCwECxNzUQHEMUHhiLjAqsbbUcxZQXcLUXccMNa0c8/edit?usp=sharing),
-[Final Presentation template](https://docs.google.com/presentation/d/1YzjP4Xi0G0Tu5VWx5R9Sp5GGcTNPW8rhriaD2zkAOj4/edit?usp=sharing),
+[Final Presentation template](https://docs.google.com/presentation/d/1fOVamYCaQmSS-NcsqA5IfnIk0r-X75-G4Vq4CDG9CrU/edit#slide=id.g324aa4e752f_0_10),
 [Team Registration form](https://forms.gle/mMyaz2z9nGPxPgi86)
 
 [Basic RAG locally](https://github.com/stefanwebb/women-in-ai-hackathon/blob/main/src/main.ipynb),
